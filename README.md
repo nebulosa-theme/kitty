@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="https://github.com/nebulosa-theme/nebulosa/blob/main/assets/logo_circle.png" width="100" alt="Logo"/><br/>
 	<h2 align="center">Nebulosa for <a href="https://sw.kovidgoyal.net/kitty/">Kitty</h2>
+	<img width="400" src="https://github.com/user-attachments/assets/0ee6f179-920f-4a47-8b43-5ef180ad47b1"/>	
 </p>
 
 <p align="center">Colors for the quiet universe!</p>
@@ -34,7 +35,6 @@
   ```
   include themes/nebulosa-void.conf
   ```
----
 
 <p align="center">
 	<a href="https://github.com/nebulosa-theme/nebulosa/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nebulosa-theme/nebulosa?style=for-the-badge&labelColor=1A1E2A&color=D28DB5"/></a>
