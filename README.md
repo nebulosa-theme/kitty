@@ -15,16 +15,6 @@
 	</a>
 </p>
 
-## Gallery
-
-**Void**
-
-<img src="assets/void.webp" alt="void"/>
-
-**Solar**
-
-<img src="assets/solar.webp" alt="solar"/>
-
 ## Usage
 
 * Move one or both `nebulosa-{void,solar}.conf` to `.config/kitty/themes`
@@ -36,6 +26,16 @@
   ```
   include themes/nebulosa-void.conf
   ```
+
+## Gallery
+
+**Void**
+
+<img src="assets/void.webp" alt="void"/>
+
+**Solar**
+
+<img src="assets/solar.webp" alt="solar"/>
 
 <p align="center">
 	<a href="https://github.com/nebulosa-theme/nebulosa/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nebulosa-theme/nebulosa?style=for-the-badge&labelColor=1A1E2A&color=D28DB5"/></a>
