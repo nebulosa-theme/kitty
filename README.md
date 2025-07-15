@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/nebulosa-theme/nebulosa/blob/main/assets/logo_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/nebulosa-theme/nebulosa/refs/heads/main/assets/logo_circle.png" width="100" alt="Logo"/><br/>
 	Nebulosa for <a href="https://sw.kovidgoyal.net/kitty/">Kitty</h2>	
 </h3>
 
