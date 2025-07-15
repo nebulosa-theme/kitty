@@ -1,10 +1,13 @@
-<p align="center">
+<h3 align="center">
 	<img src="https://github.com/nebulosa-theme/nebulosa/blob/main/assets/logo_circle.png" width="100" alt="Logo"/><br/>
-	<h2 align="center">Nebulosa for <a href="https://sw.kovidgoyal.net/kitty/">Kitty</h2>
-	<img width="400" src="https://github.com/user-attachments/assets/0ee6f179-920f-4a47-8b43-5ef180ad47b1"/>	
-</p>
+	Nebulosa for <a href="https://sw.kovidgoyal.net/kitty/">Kitty</h2>	
+</h3>
 
 <p align="center">Colors for the quiet universe!</p>
+
+<p align="center">
+	<img width="400" src="https://github.com/user-attachments/assets/0ee6f179-920f-4a47-8b43-5ef180ad47b1"/>
+</p>
 
 <p align="center">
 	<a href="https://github.com/nebulosa-theme/nebulosa">
@@ -14,15 +17,13 @@
 
 ## Gallery
 
-<details>
-	<summary>Void</summary>
-	<img src="assets/void.webp" alt="void"/>
-</details>
+**Void**
 
-<details>
-	<summary>Solar</summary>
-	<img src="assets/solar.webp" alt="solar"/>
-</details>
+<img src="assets/void.webp" alt="void"/>
+
+**Solar**
+
+<img src="assets/solar.webp" alt="solar"/>
 
 ## Usage
 
