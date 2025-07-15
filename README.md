@@ -13,10 +13,24 @@
 
 ## Gallery
 
-**Void**
+<details>
+	<summary>Void</summary>
+	<img src="assets/void.webp" alt="void"/>
+</details>
 
-<img src="assets/void.webp" alt="void"/>
+<details>
+	<summary>Solar</summary>
+	<img src="assets/solar.webp" alt="solar"/>
+</details>
 
-**Solar**
+## Usage
 
-<img src="assets/solar.webp" alt="solar"/>
+* Move one or both `nebulosa-{void,solar}.conf` to `.config/kitty/themes`
+  ```bash
+  mkdir -p ~/.config/kitty/themes/
+  cp -r ./themes/ ~/.config/kitty/themes/
+  ```
+* Include the theme in your `kitty.conf`
+  ```
+  include themes/nebulosa-void.conf
+  ```
