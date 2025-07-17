@@ -30,7 +30,7 @@
 
 <img src="assets/void.png" alt="void"/>
 
-☀️ **Solar**
+☀️ **Flare**
 
 <img src="assets/flare.png" alt="solar"/>
 
