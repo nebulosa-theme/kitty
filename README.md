@@ -26,7 +26,7 @@
 
 ## Gallery
 
-🌑 **Void**
+🌙 **Void**
 
 <img src="assets/void.png" alt="void"/>
 
