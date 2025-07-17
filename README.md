@@ -20,7 +20,7 @@
 * Copy the contents of your preferred theme from [`themes/`](./themes/) in your [kitty configuration file](https://sw.kovidgoyal.net/kitty/conf/) (usually `~/.config/kitty/kitty.conf`). 
 * Include the theme in your kitty configuration file.
   ```
-  include themes/nebulosa-{void,flare}.conf # select the one you prefer
+  include nebulosa-{void,flare}.conf # select the one you prefer
   ```
 * Save your file and reload the config.
 
