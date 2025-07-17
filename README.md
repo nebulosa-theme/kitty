@@ -17,23 +17,20 @@
 
 ## Usage
 
-* Move one or both `nebulosa-{void,solar}.conf` to `.config/kitty/themes`
-  ```bash
-  mkdir -p ~/.config/kitty/themes/
-  cp -r ./themes/ ~/.config/kitty/themes/
+* Copy the contents of your preferred theme from [`themes/`](./themes/) in your [kitty configuration file](https://sw.kovidgoyal.net/kitty/conf/) (usually `~/.config/kitty/kitty.conf`). 
+* Include the theme in your kitty configuration file.
   ```
-* Include the theme in your `kitty.conf`
+  include themes/nebulosa-{void,flare}.conf # select the one you prefer
   ```
-  include themes/nebulosa-void.conf
-  ```
+* Save your file and reload the config.
 
 ## Gallery
 
-**Void**
+🌑 **Void**
 
 <img src="assets/void.png" alt="void"/>
 
-**Solar**
+☀️ **Solar**
 
-<img src="assets/solar.png" alt="solar"/>
+<img src="assets/flare.png" alt="solar"/>
 
